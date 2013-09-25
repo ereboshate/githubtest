@@ -1,0 +1,15 @@
+/*
+Author: Carl
+Contact: Call me
+Description: A basic CSS
+
+*/
+/* Solving boxmodel hack */
+
+
+body {
+background-color: #35cfca;
+}
+#container{
+border: 1px solid #00d60a;
+} 
